@@ -1,0 +1,15 @@
+{
+  "short_name": "流水线PRO",
+  "name": "流水线 PRO 图片处理工具",
+  "display": "standalone",
+  "start_url": "index.html",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1042/1042339.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
